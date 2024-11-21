@@ -30,17 +30,18 @@ x
 ## About the Project
 Built on the **Brilliant Directory** platform, Picket Fence NJ simplifies the real estate process, empowering users with the tools they need for a successful transaction. Whether you're looking to buy, sell, or rent properties in New Jersey, Picket Fence NJ provides a comprehensive, reliable, and easy-to-use resource.
 
-## 👨‍💻 About the Developer
+## 👨‍💻 About Me
 
-At Metaviz, we have a team of experienced **Brilliant Directories developers**.We specialize in creating tailored directory solutions that empower pet owners to connect with trusted pet services through user-friendly, SEO-optimized platforms. The Poodle Hut project showcases my ability to build feature-rich directories that deliver real value to both users and service providers.
+Hello! I'm **Bilal Jamil**, an experienced **Brilliant Directory developer** specializing in creating scalable, feature-rich directory websites. The **UAE Freelancing Directory** project demonstrates my ability to build custom job boards, freelancer profiles, and subscription-based solutions. I focus on delivering responsive, user-friendly experiences that drive engagement and meet business goals.
 
-If you're seeking a **Brilliant Directories** expert to develop or enhance your directory platform, let’s collaborate and create a powerful tool for your business.
+If you're looking to build or enhance a **Brilliant Directory** platform, I'm available for consultation and development.
 
+---
 
 ## 📬 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sajid-jameel-721256178/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-orange?style=for-the-badge&logo=gmail)](mailto:sajidjamil.met@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/dev-bilal)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-orange?style=for-the-badge&logo=gmail)](mailto:info.devbilal@gmail.com)
        
 ---
 
